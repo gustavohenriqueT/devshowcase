@@ -22,7 +22,11 @@ const projects = [
   },
   {
     id: 3,
+<<<<<<< HEAD
     title: "API Unimed",
+=======
+    title: "API para UNIMED",
+>>>>>>> af5f007e2bb9b27833dc2597c1f94c417698cee3
     description:
       "Desenvolvi um sistema para a Unimed adotando a abordagem de código aberto, garantindo transparência e facilidade de manutenção. O front-end foi construído para proporcionar uma interface limpa e responsiva. No back-end, para manipulação e análise de dados, assegurando eficiência no processamento das informações.",
     image: "/projects/Unimed.png",
