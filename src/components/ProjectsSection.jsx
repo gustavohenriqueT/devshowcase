@@ -22,13 +22,22 @@ const projects = [
   },
   {
     id: 3,
-    title: "",
+    title: "API Unimed",
     description:
       "Desenvolvi um sistema para a Unimed adotando a abordagem de código aberto, garantindo transparência e facilidade de manutenção. O front-end foi construído para proporcionar uma interface limpa e responsiva. No back-end, para manipulação e análise de dados, assegurando eficiência no processamento das informações.",
     image: "/projects/Unimed.png",
     tags: ["Python", "Flask", "Html", "Css", "Oracle"],
     githubUrl: "https://github.com/gustavohenriqueT/API-Atualizada.git",
   },
+  {
+    id: 4,
+    title: "Sistema de Monitoramento Climático",
+    description:
+      "Projeto Full Stack utilizando Node.js, Express e MongoDB no back-end, com React no front-end. O sistema coleta dados climáticos em tempo real, armazena em banco NoSQL e apresenta visualizações interativas para análise de tendências.",
+    image: "/projects/Clima.jpeg",
+    tags: ["Node.js", "Express", "React", "MongoDB", "NestJS", "Docker", "Go", "RabbitMQ"],
+    githubUrl: "https://github.com/gustavohenriqueT/desafio-gdash-2025-02/tree/gustavo-henrique-tomaz-da-silva"
+  }
 
 ];
 
