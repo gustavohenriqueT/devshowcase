@@ -15,7 +15,7 @@ export const AboutSection = () => {
             <p className="text-muted-foreground">
               Sou estudante de Ciência da Computação, com experiência prática no desenvolvimento e manutenção
               de <strong>APIs REST com Python e Node.js</strong> e integração de sistemas em ambientes corporativos.
-              Minhas competências incluem modelagem de dados, otimização de consultas e aplicação de
+              Minhas competências incluem modelagem de dado, mensageria, otimização de consultas e aplicação de
               <strong> Docker</strong> para deploys consistentes.
             </p>
             <p className="text-muted-foreground">
@@ -29,7 +29,7 @@ export const AboutSection = () => {
                 Entrar em Contato
               </a>
               <a
-                href="/GustavoTomazCV.pdf"
+                href="/DesenvolvedorFullStack - Gustavo Henrique Tomaz.pdf"
                 className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300"
               >
                 Baixar CV

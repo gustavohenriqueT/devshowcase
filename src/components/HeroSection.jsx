@@ -20,7 +20,7 @@ export const HeroSection = () => {
             </span>
           </h1>
           <p className="text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto opacity-0 animate-fade-in-delay-3">
-           <strong>Desenvolvedor Backend</strong> e <strong>Cientista de Dados</strong>, com experiência em
+            <strong>Desenvolvedor FullStack Junior</strong> e <strong>Cientista de Dados Junior</strong>, com experiência em
             <strong> Python</strong> e <strong>Node.js</strong>. Focado por criar APIs robustas, processar
             dados de forma eficiente e transformar informações em soluções
             inteligentes.
